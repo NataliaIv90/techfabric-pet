@@ -1,0 +1,14 @@
+.quill>.ql-container>.ql-editor {
+  min-height: 300px;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  text-overflow: ellipsis;
+}
+
+.quill>.ql-container>.ql-editor.ql-blank::before {
+  font-size: 15px;
+  font-weight: 500;
+  color: #D4D4D4;
+  font-style: normal;
+  font-family: 'Archivo';
+}
