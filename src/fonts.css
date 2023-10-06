@@ -1,0 +1,42 @@
+ @font-face {
+   font-family: 'Archivo';
+   font-weight: 400;
+   src: local('Archivo'),
+     url('./assets/fonts/archivoRegular.ttf');
+ }
+
+ @font-face {
+   font-family: 'Archivo';
+   font-weight: 500;
+   src: local('Archivo'),
+     url('./assets/fonts/archivoMedium.ttf');
+ }
+
+ @font-face {
+   font-family: 'Archivo';
+   font-weight: 600;
+   src: local('Archivo'),
+     url('./assets/fonts/archivoSemibold.ttf');
+ }
+
+ @font-face {
+   font-family: 'Archivo';
+   font-weight: 700;
+   src: local('Archivo'),
+     url('./assets/fonts/archivoBold.ttf');
+ }
+
+ @font-face {
+   font-family: 'Archivo';
+   font-weight: 700;
+   font-style: italic;
+   src: local('Italic'),
+     url('./assets/fonts/archivoBoldItalic.ttf');
+ }
+
+ @font-face {
+   font-family: 'Roboto';
+   font-weight: 500;
+   src: local('Roboto'),
+     url('./assets/fonts/robotoMedium.ttf');
+ }
